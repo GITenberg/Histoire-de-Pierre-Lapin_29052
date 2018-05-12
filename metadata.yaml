@@ -1,0 +1,40 @@
+_repo: Histoire-de-Pierre-Lapin_29052
+_version: 0.1.0
+alternative_title: The tale of Peter Rabbit. French
+contributor:
+  translators:
+  - agent_name: Ballon, Victorine
+    gutenberg_agent_id: '33662'
+    url: http://www.gutenberg.org/2009/agents/33662
+  - agent_name: Profichet, Julienne
+    gutenberg_agent_id: '33663'
+    url: http://www.gutenberg.org/2009/agents/33663
+covers:
+- cover_type: archival
+  image_path: 29052-h/images/coverl.jpg
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2009-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29052'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Rabbits -- Juvenile fiction'
+title: Histoire de Pierre Lapin
+url: http://www.gutenberg.org/ebooks/29052
