@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/292
     wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29052#Histoire-de-Pierre-Lapin
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2009-06-06'
 gutenberg_type: Text
